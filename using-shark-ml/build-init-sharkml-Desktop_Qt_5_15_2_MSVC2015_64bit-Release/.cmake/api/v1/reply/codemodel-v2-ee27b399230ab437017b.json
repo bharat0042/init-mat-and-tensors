@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "init-sharkml",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "init-sharkml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-init-sharkml-Release-e93b8a97632442d66b54.json",
+					"name" : "init-sharkml",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Dev/projects/ml-with-c++/init-mat-and-tensors/using-shark-ml/build-init-sharkml-Desktop_Qt_5_15_2_MSVC2015_64bit-Release",
+		"source" : "C:/Dev/projects/ml-with-c++/init-mat-and-tensors/using-shark-ml/init-sharkml"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
